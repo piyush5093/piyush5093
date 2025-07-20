@@ -1,3 +1,4 @@
+![logo](https://github.com/piyush5093/piyush5093/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Piyush Patil</h1>
 <h3 align="center">Aspiring Software Engineer | Full Stack Developer | Java & MERN | DSA</h3>
 <img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
