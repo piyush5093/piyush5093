@@ -1,9 +1,8 @@
 <!-- Header -->
 <div align="center">
 
-```
+
 ![banner](./piyush_banner.png)
-```
 
 ### Full Stack Developer · MERN · AI Integrations · 350+ DSA
 **📍 Pune, Maharashtra · 🎓 BE Information Technology · CGPA 9.34 · 🟢 Open to SDE Roles**
