@@ -14,9 +14,8 @@
 **📍 Pune, Maharashtra · 🎓 BE Information Technology · CGPA 9.34 · 🟢 Open to SDE Roles**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-patil-292842279)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/2254672823010/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/piyush5093/)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/pp362bw8l/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/pp3620920)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/piyush5093)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushpatil5093@gmail.com)
 
@@ -59,7 +58,7 @@ I'm a passionate **Full Stack Developer** who loves building AI-powered products
 
 ## 🚀 Featured Projects
 
-### ⚡ [FlowSync — AI-Powered Team Standup Manager](https://github.com/piyush5093)
+### ⚡ [FlowSync — AI-Powered Team Standup Manager](https://github.com/piyush5093/FlowSync)
 > **Stack:** React.js · Node.js · Express.js · MongoDB · Groq Llama 3 · Tailwind CSS · JWT
 
 An async standup platform that kills unnecessary meetings. Team members submit voice/text daily updates; **Groq AI (Llama 3)** analyzes sentiment, summarizes blockers, and auto-generates team health reports. Built a full manager dashboard with analytics, leaderboard, and streak tracking.
@@ -70,7 +69,7 @@ An async standup platform that kills unnecessary meetings. Team members submit v
 
 ---
 
-### 🎓 [CodeVerse — AI Integrated Coding Education Platform](https://github.com/piyush5093)
+### 🎓 [CodeVerse — AI Integrated Coding Education Platform](https://github.com/piyush5093/CodeVerse)
 > **Stack:** React.js · TypeScript · Node.js · Express.js · MongoDB · Gemini AI
 
 A full ed-tech platform where students enroll, track progress, and access lectures. Instructors manage course publishing and video uploads. Powered by a **context-aware Gemini AI chatbot** for real-time coding help — plus DSA visualization simulators and gamified challenges.
@@ -78,17 +77,6 @@ A full ed-tech platform where students enroll, track progress, and access lectur
 - 🤖 Gemini AI chatbot for instant doubt solving
 - 📈 Interactive DSA visualizer + gamified coding modules
 - 🧑‍🏫 Full instructor dashboard with course & content management
-
----
-
-### 🏥 [MediConnect — Doctor Appointment Booking System](https://github.com/piyush5093)
-> **Stack:** MongoDB · Express.js · React.js · Node.js · Bootstrap
-
-End-to-end MERN appointment platform with separate patient and doctor authentication flows, efficient REST APIs, MongoDB schema design, and a fully responsive Bootstrap UI.
-
-- 🔐 Dual-auth for patients and doctors
-- 📱 Cross-device responsive design with Bootstrap
-- 🗄️ Optimized MongoDB schema for appointments + users
 
 ---
 
