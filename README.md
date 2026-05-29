@@ -2,7 +2,7 @@
 <div align="center">
 
 ```
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:0d1117&height=200&section=header&text=Piyush%20Patil&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20AI%20Integrations&descAlignY=58&descColor=bc8cff&descSize=18)
+![banner](./piyush_banner.png)
 ```
 
 ### Full Stack Developer · MERN · AI Integrations · 350+ DSA
