@@ -2,8 +2,7 @@
 <div align="center">
 
 ```
-<img width="1440" height="718" alt="image" src="https://github.com/user-attachments/assets/2dfb7f09-b2ef-4855-857e-10be22888f55" />
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:0d1117&height=200&section=header&text=Piyush%20Patil&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20AI%20Integrations&descAlignY=58&descColor=bc8cff&descSize=18)
 ```
 
 ### Full Stack Developer · MERN · AI Integrations · 350+ DSA
