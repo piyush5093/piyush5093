@@ -1,0 +1,41 @@
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;600;700&family=Fira+Code:wght@400;500&display=swap');
+*{margin:0;padding:0;box-sizing:border-box}
+.banner{background:#0d1117;border-radius:16px;padding:48px 40px 40px;text-align:center;overflow:hidden;position:relative;border:1px solid #21262d}
+.banner::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:linear-gradient(90deg,transparent,#58a6ff,#bc8cff,#58a6ff,transparent)}
+.dots{position:absolute;top:0;left:0;width:100%;height:100%;background-image:radial-gradient(circle,#1f2937 1px,transparent 1px);background-size:28px 28px;opacity:0.4}
+.greeting{font-family:'Fira Code',monospace;font-size:13px;color:#58a6ff;letter-spacing:0.15em;margin-bottom:16px;opacity:0.9}
+.greeting span{color:#bc8cff}
+.name{font-family:'Space Grotesk',sans-serif;font-size:52px;font-weight:700;color:#f0f6fc;line-height:1.1;margin-bottom:6px;position:relative;z-index:1}
+.name .first{color:#f0f6fc}
+.name .last{color:#58a6ff}
+.role{font-family:'Space Grotesk',sans-serif;font-size:16px;font-weight:300;color:#8b949e;letter-spacing:0.08em;margin-bottom:28px}
+.role strong{color:#bc8cff;font-weight:500}
+.divider{width:60px;height:2px;background:linear-gradient(90deg,#58a6ff,#bc8cff);margin:0 auto 24px;border-radius:2px}
+.tags{display:flex;flex-wrap:wrap;justify-content:center;gap:8px;margin-bottom:20px}
+.tag{font-family:'Fira Code',monospace;font-size:11px;padding:5px 12px;border-radius:20px;letter-spacing:0.05em}
+.tag.blue{background:rgba(88,166,255,0.1);border:1px solid rgba(88,166,255,0.3);color:#58a6ff}
+.tag.purple{background:rgba(188,140,255,0.1);border:1px solid rgba(188,140,255,0.3);color:#bc8cff}
+.tag.green{background:rgba(63,185,80,0.1);border:1px solid rgba(63,185,80,0.3);color:#3fb950}
+.footer{font-family:'Fira Code',monospace;font-size:11px;color:#484f58;margin-top:4px}
+.footer span{color:#6e7681}
+</style>
+<div class="banner">
+  <div class="dots"></div>
+  <p class="greeting">👋 &nbsp;<span>Hello, World!</span> &nbsp;— I'm</p>
+  <h1 class="name">
+    <span class="first">Piyush </span><span class="last">Patil</span>
+  </h1>
+  <p class="role">Full Stack Developer &nbsp;·&nbsp; <strong>MERN</strong> &nbsp;·&nbsp; AI Integrations</p>
+  <div class="divider"></div>
+  <div class="tags">
+    <span class="tag blue">⚡ React.js</span>
+    <span class="tag blue">🟢 Node.js</span>
+    <span class="tag purple">🤖 Groq · Gemini AI</span>
+    <span class="tag green">🎯 350+ DSA</span>
+    <span class="tag blue">☕ Java</span>
+    <span class="tag purple">🎓 CGPA 9.34</span>
+  </div>
+  <p class="footer"><span>📍 Pune, Maharashtra</span> &nbsp;·&nbsp; <span>🟢 Open to SDE Roles</span> &nbsp;·&nbsp; <span>PES Modern COE</span></p>
+</div>
